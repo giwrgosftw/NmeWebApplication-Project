@@ -1,0 +1,10 @@
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/servlets/RemoveAlbumServlet.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/dao/NmeRepositoryJpa.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/servlets/AlbumListServlet.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/domain/Artist.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/servlets/AddArtistServlet.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/domain/Track.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/servlets/TracksByAlbumServlet.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/domain/Album.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/dao/NmeRepository.java
+/home/lenovo-laptop/Desktop/Nme/src/main/java/uk/ac/city/acvt719/nme/servlets/ArtistCountServlet.java
