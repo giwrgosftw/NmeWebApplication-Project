@@ -12,3 +12,5 @@ My application fulfil the following use cases:
 4.The user is to add a artist to the database. 
 
 5.The user is able to remove an album from the database by providing the album id.
+
+You can check the video of this app here https://onedrive.live.com/?id=15147F9B11E181CE%2112472&cid=15147F9B11E181CE
