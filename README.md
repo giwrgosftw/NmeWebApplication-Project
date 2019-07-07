@@ -1,5 +1,5 @@
 # NmeWebApplication-Project
-My project is a web application using NetBeans IDE with an SQLite database called nme, and is deployable within a Glassfish application server for the Business Systems module (1st year).
+My project is a web application using NetBeans IDE with an SQLite database called nme, and is deployable within a Glassfish application server.
 
 My application fulfil the following use cases:
 
