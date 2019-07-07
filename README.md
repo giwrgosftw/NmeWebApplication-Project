@@ -13,4 +13,7 @@ My application fulfil the following use cases:
 
 5.The user is able to remove an album from the database by providing the album id.
 
-You can check the video of this app here https://streamable.com/9k7gq or https://www.dropbox.com/s/4vzaym59ggpt147/Nme%20Web%20Application.mp4?dl=0
+# Video PUT usage example links
+1. https://youtu.be/xfcRV6PbOOg
+2. https://streamable.com/9k7gq or 
+3. https://www.dropbox.com/s/4vzaym59ggpt147/Nme%20Web%20Application.mp4?dl=0
