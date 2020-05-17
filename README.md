@@ -3,10 +3,10 @@ My project is a web application using NetBeans IDE with an SQLite database calle
 
 My application fulfil the following use cases:
 
-1. The user is able to display all the albums (album id, album name, release date and artist name) in the database in a table format.
-2. The user is able to display a count of the number of artists held in the database.
-3. The user is able provide an album id and display all the tracks on that album.
-4. The user is to add a artist to the database. 
+1. The user is able to display all the albums (id, name, release date and artist name) in the database in a table format
+2. The user is able to display a count of the number of artists held in the database
+3. The user is able provide an album id and display all the tracks on that album
+4. The user is to add a artist to the database
 5. The user is able to remove an album from the database by providing the album id.
 
 # Video PUT function example links
