@@ -5,11 +5,11 @@ This is a web application that represents a simplified version of the "New Music
 
 My application fulfils the following use cases:
 
-1.The user is able to display all the albums (album id, album name, release date and artist name) in the database in a table format.
-2.The user is able to display a count of the number of artists held in the database.
-3.The user is able to provide an album id and display all the tracks on that album.
-4.The user is to add an artist to the database.
-5.The user is able to remove an album from the database by providing the album id.
+1. The user is able to display all the albums (album id, album name, release date and artist name) in the database in a table format.
+2. The user is able to display a count of the number of artists held in the database.
+3. The user is able to provide an album id and display all the tracks on that album.
+4. The user is to add an artist to the database.
+5. The user is able to remove an album from the database by providing the album id.
 
 # Demo video link (PUT function example)
 1. https://youtu.be/DTbcM1r__ME or 
